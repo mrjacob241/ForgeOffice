@@ -29,7 +29,6 @@ This project has been built from scratch in Rust and it is not related or endors
 - [ ] MCP support
 - [ ] Track changes / comments
 - [ ] Spell checking and grammar suggestions
-- [ ] Full LibreOffice Compatibility
 - [ ] Cloud sync integration (Maybe one day)
 
 Stay Tuned!
