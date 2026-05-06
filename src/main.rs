@@ -6,7 +6,7 @@ use odt_pipeline::{load_document_from_odt, save_document_to_odt_with_page_margin
 use rich_textbox::{draw_editor_toolbar, RichTextBox, RichTextBoxState};
 use std::path::{Path, PathBuf};
 
-const APP_TITLE: &str = "LibeRustOffice v0.01";
+const APP_TITLE: &str = "ForgiatuSuiteDocs Text v0.01";
 const NEW_FILE_NAME: &str = "newfile.odt";
 const STARTUP_DOCUMENT_PATH: &str = "sample_docs/sample_text_base.odt";
 const STARTUP_TEXT: &str =
